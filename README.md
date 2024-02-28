@@ -1,1 +1,1 @@
-# sem-4-php-practical
+# sem-4-php-practicals
